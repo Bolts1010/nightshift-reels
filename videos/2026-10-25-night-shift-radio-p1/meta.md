@@ -1,0 +1,13 @@
+# Part 1 meta
+- Series: Night shift radio (Part 1 of max 3)
+- Posted: 25 Oct 2026, about 10:19 pm Brisbane (Instagram), by Josh's manual run
+- Instagram: https://www.instagram.com/reel/De6sLz0AIaH/ (media id 17917735767460947)
+- YouTube: not recorded here (the upload had a quota error that night, check the channel)
+- Title: not saved. The Instagram caption starts "Two rules keep you alive on this night shift."
+- Caption: Two rules keep you alive on this night shift. / Comment ANSWER or SILENT / Part 1. Follow for Part 2. / #horror #storytime #survival #shorts
+- Format: rules list. Genre: survival horror / urban legend. Hook: scary line. Ending: vote.
+- Vote options: ANSWER or SILENT. Result: SILENT won about 6 to 0 (as reported by the Part 2 run).
+- Narrator voice: Brady J style male voice (exact voice id not recorded).
+- Length: 43.6 s. Resolution 1080x1920.
+- Credits used: not recorded.
+- Files here: final.mp4, script.md, frames/ (still frames from the final video; the original ElevenLabs backgrounds were not saved).
