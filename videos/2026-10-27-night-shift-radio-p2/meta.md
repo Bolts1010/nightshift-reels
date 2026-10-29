@@ -15,4 +15,4 @@
 - YouTube title: Rule 3: It Only Repeats What It Hears (Part 2) #Shorts ; description = the caption lines above.
 - TikTok: same title and caption, uploaded by hand.
 - Vote at the end of this part: RUN or STAY.
-- Posting status: not posted by the automated run (no public link for the mp4 at that time). Post ids: none yet.
+- Posting status: posted. Instagram media id 17927111238432642 (https://www.instagram.com/reel/DfENxhJFCDp/). YouTube id DaFCR_v7qDo (https://youtube.com/shorts/DaFCR_v7qDo).
