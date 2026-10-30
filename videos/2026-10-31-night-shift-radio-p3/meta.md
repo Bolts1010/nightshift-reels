@@ -9,3 +9,4 @@
 - Length 52.5 s, 1080x1920, about -15.3 LUFS. Credits used: 575 (one voice generation; reused Part 2 backgrounds, no images, no ElevenLabs SFX).
 - Reviewer: round 1 FAIL (caption on face, scale, run of close-ups, mirror face, lights-out timing, dawn cue), fixed; round 2 FAIL on polish only (caption/end card placement, some similar two-shots), accepted as minor.
 - Planned go-live 6 pm Brisbane 31 Oct 2026 (08:00 UTC).
+- Posting status: Instagram container 18119279807004442 created (publishes 6 pm Brisbane via one-off task trig_015SPkW7rTq2DqFcYMH9ChJF). YouTube upload failed with HTTP 429 quota on 30 Oct; the 6 pm task retries it. TikTok scheduled in bundle.social, post id 97c5f9a1-938f-4a54-9eb0-89233228727f, 08:00 UTC 31 Oct.
