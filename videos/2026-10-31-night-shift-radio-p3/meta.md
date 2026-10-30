@@ -1,0 +1,11 @@
+# Part 3 meta (series finale)
+- Series: Night shift radio (Part 3 of 3). Made 31 Oct 2026 Brisbane (run 30 Oct 14:44 UTC).
+- Vote used: Part 2 RUN or STAY got no votes (Instagram 0 comments; YouTube Part 2 video missing). Narrator chose RUN and said so. No badge.
+- Title: Rule 3 Broken: Say Goodnight (Part 3)
+- Caption: Rule 3 Broken: Say Goodnight (Part 3) / Nobody voted, so I chose for you. You run. / What should I make next? Comment your idea / Part 3, the finale. Follow for the next story. / #shorts #storytime #horror #survival #nightshift
+- Genre: creepy mystery / mimic. Format: second-person survival. Hook: calm direct line. Ending: echo and quiet dread (your voice on the radio repeats the Part 1 line). Scare style: slow dread, no jump scare.
+- Creature: black mimic copy of you with green rim light, plus the green stalker walking out the front door.
+- Voices: narrator Brady J kmjgtnoB3DMXA9wZpudu (whisper tags); radio filter made in numpy. Palette purple, teal, amber, orange (same as Part 2).
+- Length 52.5 s, 1080x1920, about -15.3 LUFS. Credits used: 575 (one voice generation; reused Part 2 backgrounds, no images, no ElevenLabs SFX).
+- Reviewer: round 1 FAIL (caption on face, scale, run of close-ups, mirror face, lights-out timing, dawn cue), fixed; round 2 FAIL on polish only (caption/end card placement, some similar two-shots), accepted as minor.
+- Planned go-live 6 pm Brisbane 31 Oct 2026 (08:00 UTC).
