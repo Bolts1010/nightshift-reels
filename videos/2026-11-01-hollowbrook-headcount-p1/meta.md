@@ -13,3 +13,4 @@ Palette: sodium orange, concrete grey, violet-black sky, dirt brown, hi-vis yell
 Vote options: DIG / WALK. Source of idea: viewer comment (school build on a graveyard).
 Credits used: about 2,950 (images 6 x 406 incl. one landscape miss, speech 448, sfx 33).
 Reviewer: second reviewer round 1 FAIL (static 21-24 s, pointing), round 2 fixes + misreads, round 3 PASS.
+Posting: Instagram container 18119424107004442 FINISHED, publish scheduled 6 pm Brisbane (08:00 UTC 2026-11-01) via one-off task trig_01T2tM6Et8whyBBCkmCLLCZd. YouTube: upload failed 429 daily quota at midnight, retry in the 6 pm task. TikTok: bundle.social post 2059f63d-ff16-49b3-820a-f36b718368dc SCHEDULED 08:00 UTC.
