@@ -21,4 +21,4 @@ Vote result used for badge: DIG 2, WALK 1, total 3 (Instagram only; YouTube comm
 Credits used this run: about 910 (1 image 433, speech 478); SFX synthesized in code
 Reviewer: round 1 FAIL (15 items, fixed), round 2 PASS (7 minor notes)
 Note: coffin image came out landscape 1280x720, cropped to 9:16 in code.
-Post ids: (filled after posting)
+Post ids: Instagram container 18119737151004442 (FINISHED, publishes 6 pm Brisbane via trigger trig_01L9HeJVV4nm4Tdyb6EieU3W); YouTube upload failed 429 daily quota on 2 Nov, one retry at 6 pm by the same trigger; TikTok bundle.social post 7f5de961-e342-4ffe-b690-bbd044631b67 SCHEDULED 2026-11-03T08:00Z
